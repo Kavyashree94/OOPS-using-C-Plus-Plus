@@ -1,1 +1,11 @@
 An Overview Of C++ - Herbert Schildt
+
+Example of a Class which defines Stack.
+This needs below 3 files
+1.) Class_Exmaple.cpp
+2.) Stack.cpp
+3.) stack.h
+
+Example of Inheritance
+Building.cpp
+Building.h
