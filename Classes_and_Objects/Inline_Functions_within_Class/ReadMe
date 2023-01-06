@@ -1,1 +1,13 @@
 
+Generally smaller fucntiosn are defined inside class
+Such functions defined inside the class are automatically inlined.
+
+Example:
+
+class MyClass{
+int a,b;
+//automatically inlined
+public:
+  void init(int i,int j){a=i;b=;;}
+  void show(){cout<<a<<" "<<b<<"\n}
+  };
